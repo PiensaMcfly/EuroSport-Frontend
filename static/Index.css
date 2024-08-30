@@ -6,7 +6,7 @@
 
  header {
      background-color: white; 
-    background: url(/img/fondo.jpg);
+    background: url(/static/img/fondo.jpg);
     background-size: cover;
     background-position: center;
 } 
